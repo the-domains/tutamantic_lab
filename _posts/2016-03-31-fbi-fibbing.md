@@ -6,22 +6,24 @@ inLanguage: null
 starred: false
 keywords: []
 description: The Law is lining the phones up for brute-forcing... and the FBI said they only wanted 1 exception.
-datePublished: '2016-03-31T20:59:53.974Z'
-dateModified: '2016-03-31T20:59:34.401Z'
+datePublished: '2016-03-31T21:01:48.308Z'
+dateModified: '2016-03-31T21:01:44.582Z'
 title: FBI fibbing...
 author: []
+sourcePath: _posts/2016-03-31-fbi-fibbing.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-fbi-fibbing.md
-published: true
 url: fbi-fibbing/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/146c5607-797a-4a5f-8d38-03fabb1bad9d.jpg)
+
 The Law is lining the phones up for brute-forcing... and the FBI said they only wanted 1 exception.
 
 Hah.
