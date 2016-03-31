@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Attack vectors on an Android phone... from several developers themselves... acting like the FBI...
-datePublished: '2016-03-31T20:00:28.428Z'
-dateModified: '2016-03-31T20:00:03.350Z'
+datePublished: '2016-03-31T20:02:10.332Z'
+dateModified: '2016-03-31T20:00:30.587Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-31-attack-vectors-on-an-android-phone-from-several-developer.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-31-attack-vectors-on-an-android-phone-from-several-developer.md
-published: true
 url: attack-vectors-on-an-android-phone-from-several-developer/index.html
 _type: Article
 
