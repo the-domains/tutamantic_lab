@@ -1,4 +1,4 @@
-name: Tutamantic_lab
+name: Tutamantic_labs
 favicon: null
 layout_spectrum: 0.10614946112036705
 typography_spectrum: 0.76339
@@ -18,10 +18,10 @@ opengraph:
 color:
   brandColors:
     - '#ffffff'
-    - '#010101'
-    - '#d97f07'
-    - '#8ab1d8'
-    - '#e33003'
+    - '#000000'
+    - '#b3a080'
+    - '#604b2e'
+    - '#a3131c'
   brandStrength: 0.15117438649758697
   lightness: 0.8380399171728641
   saturation: 0.6855978302191943
